@@ -1,0 +1,35 @@
+C:\Users\Luke\Desktop\School Projects\.Net Software Development\Repositories\.NetCourseXamianForm\Notes\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+C:\Users\Luke\Desktop\School Projects\.Net Software Development\Repositories\.NetCourseXamianForm\Notes\Notes\bin\Debug\netstandard2.0\Notes.dll
+C:\Users\Luke\Desktop\School Projects\.Net Software Development\Repositories\.NetCourseXamianForm\Notes\Notes\bin\Debug\netstandard2.0\ref\Notes.dll
+C:\Users\Luke\Desktop\School Projects\.Net Software Development\Repositories\.NetCourseXamianForm\Notes\Notes\bin\Debug\netstandard2.0\Notes.pdb
+C:\Users\Luke\Desktop\School Projects\.Net Software Development\Repositories\.NetCourseXamianForm\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.AssemblyReference.cache
+C:\Users\Luke\Desktop\School Projects\.Net Software Development\Repositories\.NetCourseXamianForm\Notes\Notes\obj\Debug\netstandard2.0\Notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luke\Desktop\School Projects\.Net Software Development\Repositories\.NetCourseXamianForm\Notes\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Luke\Desktop\School Projects\.Net Software Development\Repositories\.NetCourseXamianForm\Notes\Notes\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Luke\Desktop\School Projects\.Net Software Development\Repositories\.NetCourseXamianForm\Notes\Notes\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Luke\Desktop\School Projects\.Net Software Development\Repositories\.NetCourseXamianForm\Notes\Notes\obj\Debug\netstandard2.0\Views\NotesPage.xaml.g.cs
+C:\Users\Luke\Desktop\School Projects\.Net Software Development\Repositories\.NetCourseXamianForm\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+C:\Users\Luke\Desktop\School Projects\.Net Software Development\Repositories\.NetCourseXamianForm\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+C:\Users\Luke\Desktop\School Projects\.Net Software Development\Repositories\.NetCourseXamianForm\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Desktop\School Projects\.Net Software Development\Repositories\.NetCourseXamianForm\Notes\Notes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Luke\Desktop\School Projects\.Net Software Development\Repositories\.NetCourseXamianForm\Notes\Notes\obj\Debug\netstandard2.0\Notes.dll
+C:\Users\Luke\Desktop\School Projects\.Net Software Development\Repositories\.NetCourseXamianForm\Notes\Notes\obj\Debug\netstandard2.0\refint\Notes.dll
+C:\Users\Luke\Desktop\School Projects\.Net Software Development\Repositories\.NetCourseXamianForm\Notes\Notes\obj\Debug\netstandard2.0\Notes.pdb
+C:\Users\Luke\Desktop\Notes\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+C:\Users\Luke\Desktop\Notes\Notes\bin\Debug\netstandard2.0\Notes.dll
+C:\Users\Luke\Desktop\Notes\Notes\bin\Debug\netstandard2.0\ref\Notes.dll
+C:\Users\Luke\Desktop\Notes\Notes\bin\Debug\netstandard2.0\Notes.pdb
+C:\Users\Luke\Desktop\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.AssemblyReference.cache
+C:\Users\Luke\Desktop\Notes\Notes\obj\Debug\netstandard2.0\Notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luke\Desktop\Notes\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Luke\Desktop\Notes\Notes\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Luke\Desktop\Notes\Notes\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Luke\Desktop\Notes\Notes\obj\Debug\netstandard2.0\Views\NotesPage.xaml.g.cs
+C:\Users\Luke\Desktop\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+C:\Users\Luke\Desktop\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+C:\Users\Luke\Desktop\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Desktop\Notes\Notes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Luke\Desktop\Notes\Notes\obj\Debug\netstandard2.0\Notes.dll
+C:\Users\Luke\Desktop\Notes\Notes\obj\Debug\netstandard2.0\refint\Notes.dll
+C:\Users\Luke\Desktop\Notes\Notes\obj\Debug\netstandard2.0\Notes.pdb
+C:\Users\Luke\Desktop\Notes\Notes\obj\Debug\netstandard2.0\Views\NoteEntryPage.xaml.g.cs
